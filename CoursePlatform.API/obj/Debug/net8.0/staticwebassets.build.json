@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "rKQyXBhVi41DBt95Blac8iMPwqOu/0+9kTzL65s8A/s=",
+  "Source": "CoursePlatform.API",
+  "BasePath": "_content/CoursePlatform.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

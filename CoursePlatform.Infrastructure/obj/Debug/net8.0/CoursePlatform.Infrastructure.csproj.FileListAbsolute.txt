@@ -1,0 +1,16 @@
+/home/rwadmin/Escritorio/CoursePlatform.Infrastructure/bin/Debug/net8.0/CoursePlatform.Infrastructure.deps.json
+/home/rwadmin/Escritorio/CoursePlatform.Infrastructure/bin/Debug/net8.0/CoursePlatform.Infrastructure.dll
+/home/rwadmin/Escritorio/CoursePlatform.Infrastructure/bin/Debug/net8.0/CoursePlatform.Infrastructure.pdb
+/home/rwadmin/Escritorio/CoursePlatform.Infrastructure/bin/Debug/net8.0/CoursePlatform.Core.dll
+/home/rwadmin/Escritorio/CoursePlatform.Infrastructure/bin/Debug/net8.0/CoursePlatform.Core.pdb
+/home/rwadmin/Escritorio/CoursePlatform.Infrastructure/obj/Debug/net8.0/CoursePlatform.Infrastructure.csproj.AssemblyReference.cache
+/home/rwadmin/Escritorio/CoursePlatform.Infrastructure/obj/Debug/net8.0/CoursePlatform.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/home/rwadmin/Escritorio/CoursePlatform.Infrastructure/obj/Debug/net8.0/CoursePlatform.Infrastructure.AssemblyInfoInputs.cache
+/home/rwadmin/Escritorio/CoursePlatform.Infrastructure/obj/Debug/net8.0/CoursePlatform.Infrastructure.AssemblyInfo.cs
+/home/rwadmin/Escritorio/CoursePlatform.Infrastructure/obj/Debug/net8.0/CoursePlatform.Infrastructure.csproj.CoreCompileInputs.cache
+/home/rwadmin/Escritorio/CoursePlatform.Infrastructure/obj/Debug/net8.0/CoursePlatform.Infrastructure.sourcelink.json
+/home/rwadmin/Escritorio/CoursePlatform.Infrastructure/obj/Debug/net8.0/CoursePlatform.Infrastructure.csproj.CopyComplete
+/home/rwadmin/Escritorio/CoursePlatform.Infrastructure/obj/Debug/net8.0/CoursePlatform.Infrastructure.dll
+/home/rwadmin/Escritorio/CoursePlatform.Infrastructure/obj/Debug/net8.0/refint/CoursePlatform.Infrastructure.dll
+/home/rwadmin/Escritorio/CoursePlatform.Infrastructure/obj/Debug/net8.0/CoursePlatform.Infrastructure.pdb
+/home/rwadmin/Escritorio/CoursePlatform.Infrastructure/obj/Debug/net8.0/ref/CoursePlatform.Infrastructure.dll

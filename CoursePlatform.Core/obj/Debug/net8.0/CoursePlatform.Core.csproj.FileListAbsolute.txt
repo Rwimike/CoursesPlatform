@@ -1,0 +1,12 @@
+/home/rwadmin/Escritorio/CoursePlatform.Core/bin/Debug/net8.0/CoursePlatform.Core.deps.json
+/home/rwadmin/Escritorio/CoursePlatform.Core/bin/Debug/net8.0/CoursePlatform.Core.dll
+/home/rwadmin/Escritorio/CoursePlatform.Core/bin/Debug/net8.0/CoursePlatform.Core.pdb
+/home/rwadmin/Escritorio/CoursePlatform.Core/obj/Debug/net8.0/CoursePlatform.Core.GeneratedMSBuildEditorConfig.editorconfig
+/home/rwadmin/Escritorio/CoursePlatform.Core/obj/Debug/net8.0/CoursePlatform.Core.AssemblyInfoInputs.cache
+/home/rwadmin/Escritorio/CoursePlatform.Core/obj/Debug/net8.0/CoursePlatform.Core.AssemblyInfo.cs
+/home/rwadmin/Escritorio/CoursePlatform.Core/obj/Debug/net8.0/CoursePlatform.Core.csproj.CoreCompileInputs.cache
+/home/rwadmin/Escritorio/CoursePlatform.Core/obj/Debug/net8.0/CoursePlatform.Core.sourcelink.json
+/home/rwadmin/Escritorio/CoursePlatform.Core/obj/Debug/net8.0/CoursePlatform.Core.dll
+/home/rwadmin/Escritorio/CoursePlatform.Core/obj/Debug/net8.0/refint/CoursePlatform.Core.dll
+/home/rwadmin/Escritorio/CoursePlatform.Core/obj/Debug/net8.0/CoursePlatform.Core.pdb
+/home/rwadmin/Escritorio/CoursePlatform.Core/obj/Debug/net8.0/ref/CoursePlatform.Core.dll
